@@ -1,8 +1,8 @@
 ### Andrii Patrikei
 
-Data scientist at VSB – Technical University of Ostrava, Czechia. I work on time-series machine learning:
-feature extraction, XGBoost and self-organizing maps, dynamic time warping, recurrence analysis and chaotic
-dynamics, in R and Python.
+Data scientist based in Canada, open to data science roles in Canada. I work on time-series machine
+learning: feature extraction, XGBoost and self-organizing maps, dynamic time warping, recurrence analysis
+and chaotic dynamics, in R and Python. Previously at VSB – Technical University of Ostrava, Czechia.
 
 **Paper:** Patrikei, Cuberek, Halfar & Martinovič (2026). Essential time series characteristics for
 human motion analysis based on Self-Organizing Map clustering. *Acta Gymnica 56*, e2026.004.
